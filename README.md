@@ -1,4 +1,4 @@
-# spring-security
+# Spring Security with jwt and roles
 
 base urls:
 
